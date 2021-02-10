@@ -1,1 +1,0 @@
-# postman-collection-git-examplejb
